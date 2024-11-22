@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Home",
+    "login": "Login",
+    "register": "Register"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "name": "Full Name"
+  }
+}

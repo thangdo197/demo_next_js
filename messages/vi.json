@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "login": "Đăng nhập",
+    "register": "Đăng ký"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "loginButton": "Đăng nhập",
+    "registerButton": "Đăng ký",
+    "name": "Họ và tên"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "主页",
+    "login": "登录",
+    "register": "注册"
+  },
+  "auth": {
+    "email": "电子邮件",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "loginButton": "登录",
+    "registerButton": "注册",
+    "name": "全名"
+  }
+}
